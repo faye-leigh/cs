@@ -1,0 +1,15 @@
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.GeneratedMSBuildEditorConfig.editorconfig
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.AssemblyInfoInputs.cache
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.AssemblyInfo.cs
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.csproj.CoreCompileInputs.cache
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.sourcelink.json
+/home/faye/cs/CSE2221/MonteCarlo/bin/Debug/net9.0/CSE2221
+/home/faye/cs/CSE2221/MonteCarlo/bin/Debug/net9.0/CSE2221.deps.json
+/home/faye/cs/CSE2221/MonteCarlo/bin/Debug/net9.0/CSE2221.runtimeconfig.json
+/home/faye/cs/CSE2221/MonteCarlo/bin/Debug/net9.0/CSE2221.dll
+/home/faye/cs/CSE2221/MonteCarlo/bin/Debug/net9.0/CSE2221.pdb
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.dll
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/refint/CSE2221.dll
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.pdb
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/CSE2221.genruntimeconfig.cache
+/home/faye/cs/CSE2221/MonteCarlo/obj/Debug/net9.0/ref/CSE2221.dll

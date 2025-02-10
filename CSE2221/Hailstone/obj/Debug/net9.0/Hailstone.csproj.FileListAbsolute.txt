@@ -1,0 +1,15 @@
+/home/faye/cs/CSE2221/Hailstone/bin/Debug/net9.0/Hailstone
+/home/faye/cs/CSE2221/Hailstone/bin/Debug/net9.0/Hailstone.deps.json
+/home/faye/cs/CSE2221/Hailstone/bin/Debug/net9.0/Hailstone.runtimeconfig.json
+/home/faye/cs/CSE2221/Hailstone/bin/Debug/net9.0/Hailstone.dll
+/home/faye/cs/CSE2221/Hailstone/bin/Debug/net9.0/Hailstone.pdb
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.GeneratedMSBuildEditorConfig.editorconfig
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.AssemblyInfoInputs.cache
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.AssemblyInfo.cs
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.csproj.CoreCompileInputs.cache
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.sourcelink.json
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.dll
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/refint/Hailstone.dll
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.pdb
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/Hailstone.genruntimeconfig.cache
+/home/faye/cs/CSE2221/Hailstone/obj/Debug/net9.0/ref/Hailstone.dll
